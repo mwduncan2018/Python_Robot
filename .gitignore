@@ -1,0 +1,31 @@
+# --- Robot Framework & Browser Library ---
+results/
+browser/
+output.xml
+log.html
+report.html
+# Ignore recorded videos and screenshots specifically if they escape 'results'
+*.webm
+*.png
+
+# --- Python ---
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# --- Docker ---
+# Don't ignore the Dockerfile itself, but ignore local data
+.docker/
+
+# --- IDEs & System ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

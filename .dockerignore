@@ -1,0 +1,20 @@
+# Python artifacts
+.venv/
+__pycache__/
+*.pyc
+
+# Robot Framework results
+results/
+browser/
+*.log
+*.html
+*.xml
+
+# Git
+.git/
+.gitignore
+
+# Environment/IDE
+.env
+.vscode/
+.idea/
