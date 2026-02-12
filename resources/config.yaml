@@ -1,0 +1,10 @@
+local:
+  # Docker Execution
+  #url: "http://host.docker.internal:3000"
+  # Local Execition
+  url: "http://localhost:3000"
+
+browser_options:
+  name: "chromium"
+  headless: false
+  slowMo: 0.01s
