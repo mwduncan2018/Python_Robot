@@ -4,6 +4,8 @@ browser/
 output.xml
 log.html
 report.html
+# Pabot manifest file
+.pabotsuitenames
 # Ignore recorded videos and screenshots specifically if they escape 'results'
 *.webm
 *.png
