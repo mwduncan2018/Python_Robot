@@ -1,7 +1,0 @@
-datasources:9a1c657af35f54b103ba485b97a6acc3ba30e563
-commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
-suitesfrom:no-suites-from-option
-file:c1bbd2ad21fe27ef60e1bd40c8c6b95fe7a1a2a7
---suite Tests.Contact Tests
---suite Tests.Fuzzy Matching
---suite Tests.Standard Matching
