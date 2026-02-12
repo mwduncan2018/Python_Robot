@@ -38,4 +38,3 @@ Technical Skills
     ...    TypeScript
     ...    JavaScript
     ...    C#
-    ...    Eggplant

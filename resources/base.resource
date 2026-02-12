@@ -9,6 +9,5 @@ Browser Setup
     New Page       ${local.url}
 
 Browser Teardown
-    Take Screenshot
-    Close Context    # Finalizes video and generates the link
+    Close Context
     Close Browser
